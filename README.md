@@ -13,7 +13,7 @@ Aşağıdaki sorular veride yaptığımız manipülasyon ve analizlerle yanıtla
 ## Projenin Aşamaları
 
 * Öncelikle yıllara göre dağılmış datasetleri bir araya getirildi.
-* Missing Value Check yapıldı.
+* Missing Value Check ve çeşitli Data Manipulation'lar yapıldı.
 * Time Column'u datetime objesine dönüştürüldü.
 * Matplotlib ve seaborn ile çeşitli görselleştirmeler yapıldı.
 * Kent ve Kırsal Bölgeleri saptamak için ``folium`` kütüphanesinden ve verisetindeki konum bilgilerinden faydalanıldı.
