@@ -1,4 +1,4 @@
-# Data-Analysis-Final-Case
+# UK Trafik Kazaları Analizi
 * **Notebook'un boyutu çok fazla olduğu için Release altında bulabilirsiniz.**
 * Bu projenin verisi, Birleşik Krallık hükümetinin 2000 ve 2016 yılları arasındaki trafik verilerini bir araya getirerek kayıt altına aldığı 1,6 milyondan fazla kazayı barındırır.
 
